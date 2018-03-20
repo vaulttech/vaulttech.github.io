@@ -1,7 +1,5 @@
 ---
 layout: redirected
-sitemap: false
-permalink: "http://vaulttech.github.io"
 redirect_to: "http://jcbgamboa.github.io"
 ---
 
